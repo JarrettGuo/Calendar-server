@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2",
+    "title": "Nancy White",
+    "start": "2024-08-26T12:00:00",
+    "end": "2024-08-26T14:00:00",
+    "allDay": false
+  },
+  {
+    "id": "4",
+    "title": "Linda Martinez",
+    "start": "2024-08-27T08:00:00",
+    "end": "2024-08-27T10:00:00",
+    "allDay": false
+  },
+  {
+    "id": "5",
+    "title": "William Garcia",
+    "start": "2024-08-29T10:00:00",
+    "end": "2024-08-29T12:00:00",
+    "allDay": false
+  },
+  {
+    "id": "6",
+    "title": "Elizabeth Miller",
+    "start": "2024-08-17T14:00:00",
+    "end": "2024-08-17T16:00:00",
+    "allDay": false
+  },
+  {
+    "id": "7",
+    "title": "Charles Anderson",
+    "start": "2024-08-30T16:00:00",
+    "end": "2024-08-30T18:00:00",
+    "allDay": false
+  }
+]
