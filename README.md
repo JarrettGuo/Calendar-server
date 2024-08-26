@@ -25,7 +25,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/calendar-demo-backend.git
+   git clone https://github.com/JarrettGuo/Calendar-server.git
    cd calendar-demo-backend
    ```
 
