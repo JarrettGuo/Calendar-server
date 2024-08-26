@@ -25,7 +25,7 @@ Follow these steps to run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/calendar-demo-backend.git
+   git clone [https://github.com/your-username/calendar-demo-backend.git](https://github.com/JarrettGuo/Calendar-server.git)
    cd calendar-demo-backend
    ```
 
@@ -40,7 +40,7 @@ Follow these steps to run the project locally:
    ```
 
 4. **API Documentation**:
-   Access the API documentation at `http://localhost:3001/api-docs` (if Swagger is set up).
+   Access the API documentation at `http://localhost:3000`
 
 ## Folder Structure
 
